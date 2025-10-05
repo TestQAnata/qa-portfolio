@@ -12,3 +12,4 @@
 - [Тест-кейсы](./test-cases.md)
 - [Баг-репорты](./bug-reports.md)
 - [Чек-листы](./checklists.md)
+- [Тест-план](./test-plan.md)
