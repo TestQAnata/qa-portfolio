@@ -88,4 +88,4 @@
 
 ---
 
-[← Назад к проекту Читай-город](Projects/Chitai-gorod)
+[← Назад к проекту Читай-город](Projects/Chitai-gorod/README.md)
