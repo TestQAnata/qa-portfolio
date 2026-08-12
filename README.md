@@ -1,6 +1,6 @@
 # 🧪 QA Portfolio | Наталья Кулькова
 
-📍 **Смоленск** | 💼 **Ожидаемый доход: от 65 000 ₽ на старте**  
+📍 **Смоленск** | 💼 **Ожидаемый доход: от 90 000 ₽ на старте**  
 📄 **[Резюме (PDF)](https://disk.yandex.ru/i/IV0I2n_GeUm3PA)** | 📧 **Email:** nat4shaky@yandex.ru | 📱 **Telegram:** [@kyNATAky](https://t.me/kyNATAky) | 💼 **GitHub:** [TestQAnata](https://github.com/TestQAnata)
 
 ---
